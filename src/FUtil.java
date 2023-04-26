@@ -27,5 +27,8 @@ public class FUtil {
         }
     }
 
-
+    public static void mostrar(){
+        String cadena = "hola buenos dias";
+        System.out.println(cadena);
+    }
 }
